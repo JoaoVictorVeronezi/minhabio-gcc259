@@ -1,5 +1,6 @@
 <h1 align="center">Ola 👋, Eu sou Joao Victor Veronezi</h1>
 <h3 align="center">Desenvolvedor fullstack e estudante de sistemas de informacao</h3>
+<img src="https://avatars.githubusercontent.com/u/55355294?v=4" alt="Me" width="200" height="200">
 
 - 🔭 Atualmente estou trabalhando em uma empresa norte americana **FullstackLabs**
 
